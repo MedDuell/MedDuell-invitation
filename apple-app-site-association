@@ -1,0 +1,11 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "T2FV28F6QZ.com.MRCSJ.MedDuellmitFirebase",
+        "paths": [ "/invite/*" ]
+      }
+    ]
+  }
+}
